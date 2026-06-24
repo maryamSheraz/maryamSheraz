@@ -20,9 +20,12 @@ Currently, I'm exploring cloud computing, IoT systems, machine learning, and sca
 
 <div align="center">
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,django,mysql,git,github,figma,aws"/>
 
 </div>
+
 
 ## 🛠️ My Toolbox
 
@@ -92,7 +95,6 @@ Currently, I'm exploring cloud computing, IoT systems, machine learning, and sca
 
 ---
 
-```md
 # 🌿 Things I've Built
 
 <table>
@@ -201,16 +203,6 @@ Java-based desktop application supporting residents, management teams and securi
 ✅ Visitor Tracking  
 
 `Java` `OOP` `GUI Development`
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=merko"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=merko"/>
-
-</div>
 
 ## 📖 Beyond Technology
 
