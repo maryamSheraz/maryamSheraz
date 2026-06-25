@@ -222,15 +222,15 @@ I believe creativity and technology complement each other, helping me approach p
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/maryam-sheraz-773503306/">
 <img src="https://img.shields.io/badge/LinkedIn-SageGreen?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://maryamsheraz-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-MintGreen?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:maryamsheraz0115@gmail.com">
 <img src="https://img.shields.io/badge/Email-MossGreen?style=for-the-badge"/>
 </a>
 
